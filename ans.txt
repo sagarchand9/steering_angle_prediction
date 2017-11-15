@@ -1,0 +1,239 @@
+
+
+Color SpaceRGB
+
+
+
+Learning rate changed
+
+0.001 & 1 & 1 & Batch & False & Bad &  \\\hline0.001 & 1 & 1 & Batch & True & 0.643
+ & 0.026
+ \\\hline0.001 & 1 & 1 & Instance & False & Bad & Bad \\\hline0.001 & 1 & 1 & Instance & True & 0.251
+ & 0.652
+ \\\hline0.001 & 1 & 2 & Batch & False & Bad & Bad \\\hline0.001 & 1 & 2 & Batch & True & 0.144
+ & 0.010
+ \\\hline0.001 & 1 & 2 & Instance & False & Bad & Bad \\\hline0.001 & 1 & 2 & Instance & True & 0.083
+ & 0.005
+ \\\hline0.001 & 1 & 3 & Batch & False & Bad & Bad \\\hline0.001 & 1 & 3 & Batch & True & 0.112
+ & 0.036
+ \\\hline0.001 & 1 & 3 & Instance & False & Bad & Bad \\\hline0.001 & 1 & 3 & Instance & True & 0.074
+ & 0.005
+ \\\hline0.001 & 5 & 1 & Batch & False & 0.116
+ & 0.005
+ \\\hline0.001 & 5 & 1 & Batch & True & 0.077
+ & 0.005
+ \\\hline0.001 & 5 & 1 & Instance & False & 0.582
+ & 0.607
+ \\\hline0.001 & 5 & 1 & Instance & True & 0.096
+ & 0.028
+ \\\hline0.001 & 5 & 2 & Batch & False & 0.146
+ & 0.021
+ \\\hline0.001 & 5 & 2 & Batch & True & 0.071
+ & 0.005
+ \\\hline0.001 & 5 & 2 & Instance & False & 0.064
+ & 0.006
+ \\\hline0.001 & 5 & 2 & Instance & True & 0.074
+ & 0.033
+ \\\hline0.001 & 5 & 3 & Batch & False & 0.039
+ & 0.006
+ \\\hline0.001 & 5 & 3 & Batch & True & 0.078
+ & 0.005
+ \\\hline0.001 & 5 & 3 & Instance & False & 0.101
+ & 0.004
+ \\\hline0.001 & 5 & 3 & Instance & True & 0.075
+ & 0.009
+ \\\hline0.001 & 10 & 1 & Batch & False & 0.246
+ & 0.104
+ \\\hline0.001 & 10 & 1 & Batch & True & 0.061
+ & 0.011
+ \\\hline0.001 & 10 & 1 & Instance & False & 0.095
+ & 0.008
+ \\\hline0.001 & 10 & 1 & Instance & True & 0.072
+ & 0.005
+ \\\hline0.001 & 10 & 2 & Batch & False & 0.162
+ & 0.044
+ \\\hline0.001 & 10 & 2 & Batch & True & Bad & Bad \\\hline0.001 & 10 & 2 & Instance & False & 0.137
+ & 0.079
+ \\\hline0.001 & 10 & 2 & Instance & True & 0.120
+ & 0.006
+ \\\hline0.001 & 10 & 3 & Batch & False & 0.046
+ & 0.005
+ \\\hline0.001 & 10 & 3 & Batch & True & 0.056
+ & 0.007
+ \\\hline0.001 & 10 & 3 & Instance & False & 0.120
+ & 0.008
+ \\\hline0.001 & 10 & 3 & Instance & True & 0.068
+ & 0.003
+ \\\hline
+
+Learning rate changed
+
+0.002 & 1 & 1 & Batch & False & Bad & Bad \\\hline0.002 & 1 & 1 & Batch & True & Bad & Bad \\\hline0.002 & 1 & 1 & Instance & False & Bad & Bad \\\hline0.002 & 1 & 1 & Instance & True & 0.428
+ & 0.733
+ \\\hline0.002 & 1 & 2 & Batch & False & Bad & Bad \\\hline0.002 & 1 & 2 & Batch & True & Bad & Bad \\\hline0.002 & 1 & 2 & Instance & False & Bad & Bad \\\hline0.002 & 1 & 2 & Instance & True & Bad & Bad \\\hline0.002 & 1 & 3 & Batch & False & Bad & Bad \\\hline0.002 & 1 & 3 & Batch & True & Bad & Bad \\\hline0.002 & 1 & 3 & Instance & False & Bad & Bad \\\hline0.002 & 1 & 3 & Instance & True & Bad & Bad \\\hline0.002 & 5 & 1 & Batch & False & 0.064
+ & 0.004
+ \\\hline0.002 & 5 & 1 & Batch & True & Bad & Bad \\\hline0.002 & 5 & 1 & Instance & False & 0.086
+ & 0.009
+ \\\hline0.002 & 5 & 1 & Instance & True & Bad & Bad \\\hline0.002 & 5 & 2 & Batch & False & Bad & Bad \\\hline0.002 & 5 & 2 & Batch & True & Bad & 0.445
+ \\\hline0.002 & 5 & 2 & Instance & False & Bad & Bad \\\hline0.002 & 5 & 2 & Instance & True & 0.043
+ & 0.010
+ \\\hline0.002 & 5 & 3 & Batch & False & Bad & Bad \\\hline0.002 & 5 & 3 & Batch & True & 0.183
+ & 0.246
+ \\\hline0.002 & 5 & 3 & Instance & False & Bad & Bad \\\hline0.002 & 5 & 3 & Instance & True & Bad & Bad \\\hline0.002 & 10 & 1 & Batch & False & Bad & Bad \\\hline0.002 & 10 & 1 & Batch & True & Bad & Bad \\\hline0.002 & 10 & 1 & Instance & False & 0.073
+ & 0.013
+ \\\hline0.002 & 10 & 1 & Instance & True & 0.059
+ & 0.007
+ \\\hline0.002 & 10 & 2 & Batch & False & Bad & Bad \\\hline0.002 & 10 & 2 & Batch & True & 0.656
+ & 0.347
+ \\\hline0.002 & 10 & 2 & Instance & False & Bad & Bad \\\hline0.002 & 10 & 2 & Instance & True & Bad & Bad \\\hline0.002 & 10 & 3 & Batch & False & Bad & Bad \\\hline0.002 & 10 & 3 & Batch & True & Bad & Bad \\\hline0.002 & 10 & 3 & Instance & False & Bad & Bad \\\hline0.002 & 10 & 3 & Instance & True & Bad & Bad \\\hline
+
+Learning rate changed
+
+0.003 & 1 & 1 & Batch & False & Bad & Bad \\\hline0.003 & 1 & 1 & Batch & True & Bad & Bad \\\hline0.003 & 1 & 1 & Instance & False & Bad & Bad \\\hline0.003 & 1 & 1 & Instance & True & Bad & Bad \\\hline0.003 & 1 & 2 & Batch & False & Bad & Bad \\\hline0.003 & 1 & 2 & Batch & True & Bad & Bad \\\hline0.003 & 1 & 2 & Instance & False & Bad & Bad \\\hline0.003 & 1 & 2 & Instance & True & Bad & Bad \\\hline0.003 & 1 & 3 & Batch & False & Bad & Bad \\\hline0.003 & 1 & 3 & Batch & True & Bad & Bad \\\hline0.003 & 1 & 3 & Instance & False & Bad & Bad \\\hline0.003 & 1 & 3 & Instance & True & Bad & Bad \\\hline0.003 & 5 & 1 & Batch & False & 0.054
+ & 0.009
+ \\\hline0.003 & 5 & 1 & Batch & True & 0.047
+ & 0.004
+ \\\hline0.003 & 5 & 1 & Instance & False & 0.060
+ & 0.004
+ \\\hline0.003 & 5 & 1 & Instance & True & 0.115
+ & 0.004
+ \\\hline0.003 & 5 & 2 & Batch & False & 0.050
+ & 0.005
+ \\\hline0.003 & 5 & 2 & Batch & True & Bad & Bad \\\hline0.003 & 5 & 2 & Instance & False & 0.043
+ & 0.005
+ \\\hline0.003 & 5 & 2 & Instance & True & 0.167
+ & 0.015
+ \\\hline0.003 & 5 & 3 & Batch & False & Bad & Bad \\\hline0.003 & 5 & 3 & Batch & True & Bad & Bad \\\hline0.003 & 5 & 3 & Instance & False & Bad & Bad \\\hline0.003 & 5 & 3 & Instance & True & Bad & Bad \\\hline0.003 & 10 & 1 & Batch & False & 0.075
+ & 0.004
+ \\\hline0.003 & 10 & 1 & Batch & True & 0.100
+ & 0.089
+ \\\hline0.003 & 10 & 1 & Instance & False & 0.112
+ & 0.055
+ \\\hline0.003 & 10 & 1 & Instance & True & 0.119
+ & 0.006
+ \\\hline0.003 & 10 & 2 & Batch & False & 0.091
+ & 0.004
+ \\\hline0.003 & 10 & 2 & Batch & True & 0.071
+ & 0.004
+ \\\hline0.003 & 10 & 2 & Instance & False & 0.120
+ & 0.007
+ \\\hline0.003 & 10 & 2 & Instance & True & Bad & Bad \\\hline0.003 & 10 & 3 & Batch & False & 0.074
+ & 0.005
+ \\\hline0.003 & 10 & 3 & Batch & True & Bad & Bad \\\hline0.003 & 10 & 3 & Instance & False & 0.068
+ & 0.006
+ \\\hline0.003 & 10 & 3 & Instance & True & Bad & Bad \\\hline
+
+Color SpaceYCbCr
+
+
+
+Learning rate changed
+
+0.001 & 1 & 1 & Batch & False & Bad & 0.408
+ \\\hline0.001 & 1 & 1 & Batch & True & 0.070
+ & 0.007
+ \\\hline0.001 & 1 & 1 & Instance & False & Bad & Bad \\\hline0.001 & 1 & 1 & Instance & True & 0.171
+ & 0.034
+ \\\hline0.001 & 1 & 2 & Batch & False & Bad & Bad \\\hline0.001 & 1 & 2 & Batch & True & 0.092
+ & 0.031
+ \\\hline0.001 & 1 & 2 & Instance & False & Bad & Bad \\\hline0.001 & 1 & 2 & Instance & True & 0.093
+ & 0.126
+ \\\hline0.001 & 1 & 3 & Batch & False & 0.116
+ & 0.070
+ \\\hline0.001 & 1 & 3 & Batch & True & 0.024
+ & 0.007
+ \\\hline0.001 & 1 & 3 & Instance & False & 0.076
+ & 0.007
+ \\\hline0.001 & 1 & 3 & Instance & True & 0.042
+ & 0.006
+ \\\hline0.001 & 5 & 1 & Batch & False & 0.223
+ & 0.033
+ \\\hline0.001 & 5 & 1 & Batch & True & Bad & 0.743
+ \\\hline0.001 & 5 & 1 & Instance & False & Bad & Bad \\\hline0.001 & 5 & 1 & Instance & True & 0.045
+ & 0.005
+ \\\hline0.001 & 5 & 2 & Batch & False & 0.063
+ & 0.009
+ \\\hline0.001 & 5 & 2 & Batch & True & 0.058
+ & 0.010
+ \\\hline0.001 & 5 & 2 & Instance & False & 0.055
+ & 0.004
+ \\\hline0.001 & 5 & 2 & Instance & True & 0.087
+ & 0.012
+ \\\hline0.001 & 5 & 3 & Batch & False & Bad & Bad \\\hline0.001 & 5 & 3 & Batch & True & 0.093
+ & 0.006
+ \\\hline0.001 & 5 & 3 & Instance & False & 0.075
+ & 0.005
+ \\\hline0.001 & 5 & 3 & Instance & True & 0.962
+ & 0.603
+ \\\hline0.001 & 10 & 1 & Batch & False & 0.485
+ & 0.198
+ \\\hline0.001 & 10 & 1 & Batch & True & 0.064
+ & 0.008
+ \\\hline0.001 & 10 & 1 & Instance & False & 0.133
+ & 0.033
+ \\\hline0.001 & 10 & 1 & Instance & True & 0.051
+ & 0.010
+ \\\hline0.001 & 10 & 2 & Batch & False & 0.199
+ & 0.184
+ \\\hline0.001 & 10 & 2 & Batch & True & 0.062
+ & 0.009
+ \\\hline0.001 & 10 & 2 & Instance & False & 0.074
+ & 0.012
+ \\\hline0.001 & 10 & 2 & Instance & True & 0.080
+ & 0.013
+ \\\hline0.001 & 10 & 3 & Batch & False & Bad & Bad \\\hline0.001 & 10 & 3 & Batch & True & 0.062
+ & 0.006
+ \\\hline0.001 & 10 & 3 & Instance & False & 0.077
+ & 0.015
+ \\\hline0.001 & 10 & 3 & Instance & True & 0.064
+ & 0.008
+ \\\hline
+
+Learning rate changed
+
+0.002 & 1 & 1 & Batch & False & Bad & Bad \\\hline0.002 & 1 & 1 & Batch & True & Bad & Bad \\\hline0.002 & 1 & 1 & Instance & False & Bad & Bad \\\hline0.002 & 1 & 1 & Instance & True & Bad & Bad \\\hline0.002 & 1 & 2 & Batch & False & Bad & Bad \\\hline0.002 & 1 & 2 & Batch & True & Bad & Bad \\\hline0.002 & 1 & 2 & Instance & False & Bad & Bad \\\hline0.002 & 1 & 2 & Instance & True & Bad & Bad \\\hline0.002 & 1 & 3 & Batch & False & Bad & Bad \\\hline0.002 & 1 & 3 & Batch & True & Bad & Bad \\\hline0.002 & 1 & 3 & Instance & False & Bad & Bad \\\hline0.002 & 1 & 3 & Instance & True & Bad & Bad \\\hline0.002 & 5 & 1 & Batch & False & 0.076
+ & 0.006
+ \\\hline0.002 & 5 & 1 & Batch & True & Bad & Bad \\\hline0.002 & 5 & 1 & Instance & False & Bad & Bad \\\hline0.002 & 5 & 1 & Instance & True & 0.425
+ & 0.172
+ \\\hline0.002 & 5 & 2 & Batch & False & Bad & Bad \\\hline0.002 & 5 & 2 & Batch & True & Bad & Bad \\\hline0.002 & 5 & 2 & Instance & False & Bad & Bad \\\hline0.002 & 5 & 2 & Instance & True & Bad & Bad \\\hline0.002 & 5 & 3 & Batch & False & Bad & Bad \\\hline0.002 & 5 & 3 & Batch & True & Bad & Bad \\\hline0.002 & 5 & 3 & Instance & False & Bad & Bad \\\hline0.002 & 5 & 3 & Instance & True & Bad & Bad \\\hline0.002 & 10 & 1 & Batch & False & 0.060
+ & 0.007
+ \\\hline0.002 & 10 & 1 & Batch & True & 0.084
+ & 0.025
+ \\\hline0.002 & 10 & 1 & Instance & False & Bad & Bad \\\hline0.002 & 10 & 1 & Instance & True & Bad & Bad \\\hline0.002 & 10 & 2 & Batch & False & 0.078
+ & 0.006
+ \\\hline0.002 & 10 & 2 & Batch & True & 0.044
+ & 0.005
+ \\\hline0.002 & 10 & 2 & Instance & False & Bad & Bad \\\hline0.002 & 10 & 2 & Instance & True & Bad & Bad \\\hline0.002 & 10 & 3 & Batch & False & 0.110
+ & 0.059
+ \\\hline0.002 & 10 & 3 & Batch & True & 0.152
+ & 0.071
+ \\\hline0.002 & 10 & 3 & Instance & False & Bad & 0.700
+ \\\hline0.002 & 10 & 3 & Instance & True & Bad & Bad \\\hline
+
+Learning rate changed
+
+0.003 & 1 & 1 & Batch & False & Bad & Bad \\\hline0.003 & 1 & 1 & Batch & True & Bad & Bad \\\hline0.003 & 1 & 1 & Instance & False & Bad & Bad \\\hline0.003 & 1 & 1 & Instance & True & Bad & Bad \\\hline0.003 & 1 & 2 & Batch & False & Bad & Bad \\\hline0.003 & 1 & 2 & Batch & True & Bad & Bad \\\hline0.003 & 1 & 2 & Instance & False & Bad & Bad \\\hline0.003 & 1 & 2 & Instance & True & Bad & Bad \\\hline0.003 & 1 & 3 & Batch & False & Bad & Bad \\\hline0.003 & 1 & 3 & Batch & True & Bad & Bad \\\hline0.003 & 1 & 3 & Instance & False & Bad & Bad \\\hline0.003 & 1 & 3 & Instance & True & Bad & Bad \\\hline0.003 & 5 & 1 & Batch & False & Bad & Bad \\\hline0.003 & 5 & 1 & Batch & True & Bad & Bad \\\hline0.003 & 5 & 1 & Instance & False & 0.037
+ & 0.003
+ \\\hline0.003 & 5 & 1 & Instance & True & Bad & Bad \\\hline0.003 & 5 & 2 & Batch & False & Bad & Bad \\\hline0.003 & 5 & 2 & Batch & True & 0.071
+ & 0.005
+ \\\hline0.003 & 5 & 2 & Instance & False & Bad & Bad \\\hline0.003 & 5 & 2 & Instance & True & Bad & Bad \\\hline0.003 & 5 & 3 & Batch & False & 0.086
+ & 0.010
+ \\\hline0.003 & 5 & 3 & Batch & True & Bad & Bad \\\hline0.003 & 5 & 3 & Instance & False & Bad & Bad \\\hline0.003 & 5 & 3 & Instance & True & Bad & Bad \\\hline0.003 & 10 & 1 & Batch & False & 0.051
+ & 0.007
+ \\\hline0.003 & 10 & 1 & Batch & True & 0.099
+ & 0.016
+ \\\hline0.003 & 10 & 1 & Instance & False & 0.037
+ & 0.008
+ \\\hline0.003 & 10 & 1 & Instance & True & 0.053
+ & 0.027
+ \\\hline0.003 & 10 & 2 & Batch & False & 0.060
+ & 0.007
+ \\\hline0.003 & 10 & 2 & Batch & True & 0.067
+ & 0.013
+ \\\hline0.003 & 10 & 2 & Instance & False & Bad & Bad \\\hline0.003 & 10 & 2 & Instance & True & 0.080
+ & 0.008
+ \\\hline0.003 & 10 & 3 & Batch & False & 0.100
+ & 0.005
+ \\\hline0.003 & 10 & 3 & Batch & True & Bad & Bad \\\hline0.003 & 10 & 3 & Instance & False & 0.078
+ & 0.008
+ \\\hline0.003 & 10 & 3 & Instance & True & Bad & Bad \\\hline
